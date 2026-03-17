@@ -5,4 +5,3 @@ x = int(input())
 y = float(input())
 # FREEZE CODE END
 
-
